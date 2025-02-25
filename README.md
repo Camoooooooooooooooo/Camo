@@ -3,7 +3,7 @@ Hi, I'm Colin a passionate entrepreneur, tech enthusiast, and problem solver. I 
 🚀 What I Do
 
 -🌱 Founder & CEO of EcoEarn – Building a sustainable future with curbside recycling programs.
--🤖 FTC Robotics Enthusiast – Part of E.G.G 17094, solving challenges through engineering.
+-🤖 FTC Robotics Enthusiast – Manager of E.G.G 17094, solving challenges through engineering.
 -💻 Developer & Maker – Exploring web development, automation, and 3D printing projects.
 
 🔧 Skills & Interests
